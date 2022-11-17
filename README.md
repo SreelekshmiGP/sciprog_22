@@ -1,4 +1,5 @@
 # Scientific Programming Concepts PH502/ACM40660 Autumn 2022
+#updated by Sreelekshmi G. P.
 
 Fork this repository into your github account. From there; 
 
