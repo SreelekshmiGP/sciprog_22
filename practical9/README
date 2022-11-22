@@ -1,0 +1,11 @@
+This is practical9.
+To compile: gcc -c magic_square.c
+            gcc main.c -o main -lm
+
+To run : ./main
+
+
+we have logic to find the magic square matrix logic in magic_square.c file.
+The input matrix is given in the square.txt
+On running the main file enter the file name"square.txt" to read the matrix.
+The given matrix is read and passed in the magic_square.c file to check whether the matrix is magic square.
